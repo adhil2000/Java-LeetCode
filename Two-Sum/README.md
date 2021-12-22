@@ -1,3 +1,5 @@
+# My Implementation:
+The method I have chosen makes use of a hashmap to yield a time complexity of O(n). Most answers involve use of for-loops, however this methodology yields a slower time complexity of O(n^2).
 
 # 1. Two Sum
 
@@ -24,7 +26,3 @@ Output: [1,2]
 Input: nums = [3,3], target = 6
 Output: [0,1]
  
-
-# My Implementation:
-The method I have chosen makes use of a hashmap to yield a time complexity of O(n). Most answers involve use of for-loops, however this methodology yields a slower time complexity of O(n^2).
-
